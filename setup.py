@@ -9,7 +9,7 @@ classifiers = [
 ]
  
 setup(
-  name='sk-syllables',
+  name='sk_syllables',
   version='0.0.1',
   description='Divide slovak words to syllables',
   long_description=open('README.txt').read() + '\n\n' + open('CHANGELOG.txt').read(),
