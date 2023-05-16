@@ -1,1 +1,1 @@
-#
+Libirary for dividing words to syllables
