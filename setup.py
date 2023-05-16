@@ -20,5 +20,5 @@ setup(
   classifiers=classifiers,
   keywords='slovak, syllables, nlp', 
   packages=find_packages(),
-  install_requires=[''] 
+  install_requires=['re'] 
 )
